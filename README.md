@@ -24,7 +24,7 @@ With a vibrant and playful interface, players are greeted by a world of color an
 
 ## Installation
 
-No installation required! Simply visit [Game Link] to start playing immediately. Compatible with all modern web browsers.
+No installation required! Simply visit [Namecaller 9000](http://www.namecaller9000.com/) to start playing immediately. Compatible with all modern web browsers.
 
 ## Contributing
 
